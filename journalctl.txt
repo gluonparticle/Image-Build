@@ -1,0 +1,800 @@
+Jul 28 20:33:22 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 132.
+Jul 28 20:33:22 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:33:22 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:22 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 132 and the job result is failed.
+Jul 28 20:33:22 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 1.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:33:22 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 614.
+Jul 28 20:33:22 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:33:22 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:22 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 614 and the job result is failed.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 2.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:33:23 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 732.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:23 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 732 and the job result is failed.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 3.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:33:23 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 850.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:23 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 850 and the job result is failed.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 4.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:33:23 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 968.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:33:23 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:23 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 968 and the job result is failed.
+Jul 28 20:33:24 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 5.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:33:24 gluonparticle systemd[1]: lightdm.service: Start request repeated too quickly.
+Jul 28 20:33:24 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:33:24 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 1086 and the job result is failed.
+Jul 28 20:34:49 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 1680.
+Jul 28 20:34:49 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:34:49 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:49 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 1680 and the job result is failed.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 1.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:34:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 1798.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 1798 and the job result is failed.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 2.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:34:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 1916.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 1916 and the job result is failed.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 3.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:34:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2034.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2034 and the job result is failed.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 4.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:34:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2152.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:34:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2152 and the job result is failed.
+Jul 28 20:34:51 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 5.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:34:51 gluonparticle systemd[1]: lightdm.service: Start request repeated too quickly.
+Jul 28 20:34:51 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:34:51 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2270 and the job result is failed.
+Jul 28 20:40:18 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2392.
+Jul 28 20:40:18 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:18 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:18 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2392 and the job result is failed.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 1.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:19 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2510.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:19 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2510 and the job result is failed.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 2.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:19 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2628.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:19 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2628 and the job result is failed.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 3.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:19 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2746.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:19 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:19 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2746 and the job result is failed.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 4.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:20 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 2864.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:20 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2864 and the job result is failed.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 5.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Start request repeated too quickly.
+Jul 28 20:40:20 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:20 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 2982 and the job result is failed.
+Jul 28 20:40:49 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 3100.
+Jul 28 20:40:49 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:49 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:49 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3100 and the job result is failed.
+Jul 28 20:40:49 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 1.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:49 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 3218.
+Jul 28 20:40:49 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:49 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:49 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3218 and the job result is failed.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 2.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 3336.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3336 and the job result is failed.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 3.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 3454.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3454 and the job result is failed.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 4.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:50 gluonparticle systemd[1]: Starting Light Display Manager...
+░░ Subject: A start job for unit lightdm.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has begun execution.
+░░ 
+░░ The job identifier is 3572.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Main process exited, code=exited, status=1/FAILURE
+░░ Subject: Unit process exited
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ An ExecStart= process belonging to unit lightdm.service has exited.
+░░ 
+░░ The process' exit code is 'exited' and its exit status is 1.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3572 and the job result is failed.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 5.
+░░ Subject: Automatic restarting of a unit has been scheduled
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Automatic restarting of the unit lightdm.service has been scheduled, as the result for
+░░ the configured Restart= setting for the unit.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Start request repeated too quickly.
+Jul 28 20:40:50 gluonparticle systemd[1]: lightdm.service: Failed with result 'exit-code'.
+░░ Subject: Unit failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ The unit lightdm.service has entered the 'failed' state with result 'exit-code'.
+Jul 28 20:40:50 gluonparticle systemd[1]: Failed to start Light Display Manager.
+░░ Subject: A start job for unit lightdm.service has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit lightdm.service has finished with a failure.
+░░ 
+░░ The job identifier is 3690 and the job result is failed.
