@@ -1,0 +1,12 @@
+× lightdm.service - Light Display Manager
+     Loaded: loaded (/usr/lib/systemd/system/lightdm.service; enabled; preset: disabled)
+     Active: failed (Result: exit-code) since Sun 2024-07-28 20:47:38 BST; 5min ago
+ Invocation: 6658408fc9e341eda332bed193c89137
+       Docs: man:lightdm(1)
+    Process: 743 ExecStart=/usr/bin/lightdm (code=exited, status=1/FAILURE)
+   Main PID: 743 (code=exited, status=1/FAILURE)
+
+Jul 28 20:47:38 archlinux systemd[1]: lightdm.service: Scheduled restart job, restart counter is at 5.
+Jul 28 20:47:38 archlinux systemd[1]: lightdm.service: Start request repeated too quickly.
+Jul 28 20:47:38 archlinux systemd[1]: lightdm.service: Failed with result 'exit-code'.
+Jul 28 20:47:38 archlinux systemd[1]: Failed to start Light Display Manager.
