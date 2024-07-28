@@ -1,0 +1,9 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p7  573G  2.8G  569G   1% /
+/dev/nvme0n1p5 1022M  158M  865M  16% /boot
+efivarfs        268K  180K   84K  69% /sys/firmware/efi/efivars
+udev            7.7G     0  7.7G   0% /dev
+shm             7.7G     0  7.7G   0% /dev/shm
+run             7.7G     0  7.7G   0% /run
+tmp             7.7G     0  7.7G   0% /tmp
+run             7.7G   11M  7.7G   1% /etc/resolv.conf

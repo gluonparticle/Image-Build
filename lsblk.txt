@@ -1,0 +1,12 @@
+NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+loop0         7:0    0 795.7M  1 loop 
+sda           8:0    1  14.3G  0 disk 
+└─sda1        8:1    1  14.3G  0 part 
+nvme0n1     259:0    0 953.9G  0 disk 
+├─nvme0n1p1 259:8    0   100M  0 part 
+├─nvme0n1p2 259:9    0    16M  0 part 
+├─nvme0n1p3 259:14   0   353G  0 part 
+├─nvme0n1p4 259:15   0   775M  0 part 
+├─nvme0n1p5 259:16   0     1G  0 part /boot
+├─nvme0n1p6 259:17   0    26G  0 part [SWAP]
+└─nvme0n1p7 259:18   0   573G  0 part /
